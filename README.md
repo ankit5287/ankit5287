@@ -7,7 +7,7 @@ Stride
 Stride focuses on improving user experience by optimizing appointment scheduling systems to reduce repeat visits to banks.
 
 ## 🌐 Socials
-[![LinkedIn](https://www.linkedin.com/in/ankit-nandoliya-425a1429b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ankit-nandoliya-425a1429b/)
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/ankit_n2)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:ankitnandoliya32@gmail.com)
 
