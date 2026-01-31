@@ -10,6 +10,7 @@ Stride focuses on improving user experience by optimizing appointment scheduling
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ankit-nandoliya-425a1429b/)
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/ankit_n2)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:ankitnandoliya32@gmail.com)
+[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x)](https://x.com/AnkitNandoliya)
 
 ## 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
