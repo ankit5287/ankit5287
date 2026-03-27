@@ -1,7 +1,7 @@
-# 👋 Hi, I’m Ankit Nandoliya
 
-I am a Computer Engineering student at SAL College of Engineering, eager to apply my technical knowledge to real-world projects. I enjoy learning through hands-on development and working on practical software applications.
-
+I am a student at Gujarat Technological University (GTU), learning programming and development.
+I have knowledge of C, C++, Python, HTML, CSS, and Database Management System(DBMS).
+I enjoy learning new technologies step by step and want to gain practical experience through projects, internships, and collaborations. My goal is to keep improving my coding skills and grow into a better developer.
 ## 📌 Project
 Stride  
 Stride focuses on improving user experience by optimizing appointment scheduling systems to reduce repeat visits to banks.
